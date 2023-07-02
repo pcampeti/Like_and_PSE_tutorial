@@ -1,6 +1,10 @@
 # Like_and_PSE_tutorial
 Tutorial on CMB power spectrum estimation, likelihood and parameter estimation for LiteBIRD hands-on meeting in Japan, Summer 2023.
 
+The xQML-master folder contains a modified version of the xQML package. The original package repository is https://gitlab.in2p3.fr/xQML/xQML.
+This repository contains code copied and/or inspired by the LolliPoP code (https://github.com/planck-npipe/lollipop/tree/master) and the xQML package (https://gitlab.in2p3.fr/xQML/xQML).
+
+
 ## To use it:
 1. Download this repository as .zip file (click on green "Code" button below the name of the repository and select "Download ZIP").
 2. Unzip xQML-master/ folder.
