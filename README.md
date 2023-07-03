@@ -3,7 +3,7 @@ Tutorial on CMB power spectrum estimation, likelihood and parameter estimation f
 
 The xQML-master folder in this repository contains a slighlty modified version of the xQML package by Vanneste et al. 2018 (https://arxiv.org/abs/1807.02484). The original repository can be found at https://gitlab.in2p3.fr/xQML/xQML.
 
-This repository contains code copied and/or inspired by the LolliPoP code (https://github.com/planck-npipe/lollipop/tree/master), presented in https://arxiv.org/abs/1605.03507 and https://arxiv.org/abs/2010.01139 and from the xQML package (https://gitlab.in2p3.fr/xQML/xQML).
+This repository contains code copied and/or heavily inspired by the LolliPoP code (https://github.com/planck-npipe/lollipop/tree/master), presented in https://arxiv.org/abs/1605.03507 and https://arxiv.org/abs/2010.01139, from the xQML package (https://gitlab.in2p3.fr/xQML/xQML) and from the FGBuster package (https://github.com/fgbuster/fgbuster).
 
 
 ## To use it:
