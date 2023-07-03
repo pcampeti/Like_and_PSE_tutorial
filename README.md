@@ -19,12 +19,12 @@ Disclaimer: this repository contains code copied and/or heavily inspired by the 
 1. Create a conda environment with python 3.6.13 (tested) e.g. with the command "conda create -n xqml_env python=3.6.13"
 2. cd xQML-master
 3. pip install .
-4. it will fail: install required dependencies until it works (there should be only a couple easy to install dependencies such as numpy, matplotlib...which you can easily install with "conda install numpy" etc.)
+4. it will fail: install required dependencies until it works (there should be only a couple easy to install dependencies such as numpy, matplotlib, ipykernel...which you can easily install with "conda install numpy" etc.)
 
 ### namaster_env
 1. Create a conda environment with python 3.7.3 (tested) e.g. with the command "conda create -n namaster_env python=3.7.3"
 2. conda install -c conda-forge namaster
-3. Install other dependencies required (e.g. healpy, numpy, matplotlib, seaborn, numba, iminuit...)
+3. Install other dependencies required (e.g. healpy, numpy, matplotlib, seaborn, numba, iminuit, ipykernel...)
 
 
 
