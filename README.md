@@ -1,6 +1,12 @@
 # Like_and_PSE_tutorial
 Tutorial on CMB power spectrum estimation, likelihood and parameter estimation for LiteBIRD hands-on meeting in Japan, Summer 2023.
 
+The xQML_tutorial.ipynb and NaMaster_tutorial.ipynb notebooks implement respectively QML and pseudo-Cls power spectrum estimation in a simple CMB + white noise case.
+
+Likelihood_tutorial.ipynb implements a simple parameter estimation routine for tensor-to-scalar ratio based on the offset Hamimeche & Lewis likelihood.
+
+
+### Disclaimer
 The xQML-master folder in this repository contains a slighlty modified version of the xQML package by Vanneste et al. 2018 (https://arxiv.org/abs/1807.02484). The original repository can be found at https://gitlab.in2p3.fr/xQML/xQML.
 
 Disclaimer: this repository contains code copied and/or heavily inspired by the LolliPoP code (https://github.com/planck-npipe/lollipop/tree/master), presented in https://arxiv.org/abs/1605.03507 and https://arxiv.org/abs/2010.01139, from the xQML package (https://gitlab.in2p3.fr/xQML/xQML) and from the FGBuster package (https://github.com/fgbuster/fgbuster).
