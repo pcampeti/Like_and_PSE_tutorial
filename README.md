@@ -6,7 +6,7 @@ The xQML-master folder in this repository contains a slighlty modified version o
 Disclaimer: this repository contains code copied and/or heavily inspired by the LolliPoP code (https://github.com/planck-npipe/lollipop/tree/master), presented in https://arxiv.org/abs/1605.03507 and https://arxiv.org/abs/2010.01139, from the xQML package (https://gitlab.in2p3.fr/xQML/xQML) and from the FGBuster package (https://github.com/fgbuster/fgbuster).
 
 
-## To use it:
+## How to use it:
 1. Download this repository as .zip file (click on green "Code" button below the name of the repository and select "Download ZIP").
 2. Unzip xQML-master/ folder.
 3. In ancillary_files/ folder, unzip mask.zip file.
